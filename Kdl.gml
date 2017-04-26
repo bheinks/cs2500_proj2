@@ -510,6 +510,8 @@ graph [
   ]
   node [
     id 60
+    Latitude 30.32591
+    Longitude -83.5612
     label "None"
     hyperedge 1
     Internal 1
@@ -540,6 +542,8 @@ graph [
   ]
   node [
     id 64
+    Latitude 38.75403
+    Longitude -94.2132
     label "None2"
     hyperedge 1
     Internal 1
@@ -578,6 +582,8 @@ graph [
   ]
   node [
     id 69
+    Latitude 46.42621
+    Longitude -83.55694
     label "None3"
     hyperedge 1
     Internal 1
@@ -688,6 +694,8 @@ graph [
   ]
   node [
     id 83
+    Latitude 40.18932
+    Longitude -94.73583
     label "None4"
     hyperedge 1
     Internal 1
@@ -1118,6 +1126,8 @@ graph [
   ]
   node [
     id 137
+    Latitude 29.79773
+    Longitude -96.41374
     label "None5"
     hyperedge 1
     Internal 1
@@ -1612,6 +1622,8 @@ graph [
   ]
   node [
     id 199
+    Latitude 42.27986
+    Longitude -76.96568
     label "None6"
     hyperedge 1
     Internal 1
@@ -1698,6 +1710,8 @@ graph [
   ]
   node [
     id 210
+    Latitude 41.13498
+    Longitude -82.98748
     label "None7"
     hyperedge 1
     Internal 1
@@ -2160,12 +2174,16 @@ graph [
   ]
   node [
     id 268
+    Latitude 29.68868
+    Longitude -97.41862
     label "None8"
     hyperedge 1
     Internal 1
   ]
   node [
     id 269
+    Latitude 43.46891
+    Longitude -98.08389
     label "None9"
     hyperedge 1
     Internal 1
@@ -2380,6 +2398,8 @@ graph [
   ]
   node [
     id 296
+    Latitude 37.05877
+    Longitude -78.92784
     label "None10"
     hyperedge 1
     Internal 1
@@ -2714,12 +2734,16 @@ graph [
   ]
   node [
     id 338
+    Latitude 35.97854
+    Longitude -75.16393
     label "None11"
     hyperedge 1
     Internal 1
   ]
   node [
     id 339
+    Latitude 33.49217
+    Longitude -80.39375
     label "None12"
     hyperedge 1
     Internal 1
@@ -2750,6 +2774,8 @@ graph [
   ]
   node [
     id 343
+    Latitude 43.80308
+    Longitude -95.62739
     label "None13"
     hyperedge 1
     Internal 1
@@ -2764,6 +2790,8 @@ graph [
   ]
   node [
     id 345
+    Latitude 33.43418
+    Longitude -92.83615
     label "None14"
     hyperedge 1
     Internal 1
@@ -2778,6 +2806,8 @@ graph [
   ]
   node [
     id 347
+    Latitude 38.01587
+    Longitude -94.49855
     label "None15"
     hyperedge 1
     Internal 1
@@ -2976,6 +3006,8 @@ graph [
   ]
   node [
     id 372
+    Latitude 45.02232
+    Longitude -77.39381
     label "None16"
     hyperedge 1
     Internal 1
@@ -3118,18 +3150,24 @@ graph [
   ]
   node [
     id 390
+    Latitude 34.46545
+    Longitude -90.36134
     label "None17"
     hyperedge 1
     Internal 1
   ]
   node [
     id 391
+    Latitude 37.61189
+    Longitude -85.4059
     label "None18"
     hyperedge 1
     Internal 1
   ]
   node [
     id 392
+    Latitude 39.25751
+    Longitude -78.1583
     label "None19"
     hyperedge 1
     Internal 1
@@ -4504,6 +4542,8 @@ graph [
   ]
   node [
     id 564
+    Latitude 44.12914
+    Longitude -86.27951
     label "None20"
     hyperedge 1
     Internal 1
@@ -4790,6 +4830,8 @@ graph [
   ]
   node [
     id 600
+    Latitude 44.52627
+    Longitude -96.53387
     label "None21"
     hyperedge 1
     Internal 1
@@ -4820,6 +4862,8 @@ graph [
   ]
   node [
     id 604
+    Latitude 43.96094
+    Longitude -83.04436
     label "None22"
     hyperedge 1
     Internal 1
@@ -5002,12 +5046,16 @@ graph [
   ]
   node [
     id 627
+    Latitude 39.40556
+    Longitude -97.1131
     label "None23"
     hyperedge 1
     Internal 1
   ]
   node [
     id 628
+    Latitude 35.90054
+    Longitude -78.77701
     label "None24"
     hyperedge 1
     Internal 1
@@ -5038,6 +5086,8 @@ graph [
   ]
   node [
     id 632
+    Latitude 38.42061
+    Longitude -91.41613
     label "None25"
     hyperedge 1
     Internal 1
@@ -5052,18 +5102,24 @@ graph [
   ]
   node [
     id 634
+    Latitude 33.65759
+    Longitude -84.02265
     label "None26"
     hyperedge 1
     Internal 1
   ]
   node [
     id 635
+    Latitude 38.99303
+    Longitude -87.80014
     label "None27"
     hyperedge 1
     Internal 1
   ]
   node [
     id 636
+    Latitude 31.81645
+    Longitude -90.62152
     label "None28"
     hyperedge 1
     Internal 1
